@@ -1,8 +1,6 @@
 # 🧠 Blog Summarizer Chrome Extension
 
 An AI-powered Chrome Extension that extracts blog content from any webpage and generates a concise summary using an AI API.
-
-chhhangess Madeeeddd
 ---
 
 ## 📌 Features

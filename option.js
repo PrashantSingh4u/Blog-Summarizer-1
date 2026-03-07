@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded",()=>{
         }
     });
 
-    document.getElementById("save-button").addEventListener(
+    document.getElementById("save-key").addEventListener(
       "click",()=>{
         const apiKey = document.getElementById("api-key").value.trim();
 

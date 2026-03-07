@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded",()=>{
         if(!apiKey){
             return
         }
-        chrome.storage.sync.set({geminiApiKey},()=>{
+        chrome.storage.sync.set({ geminiApiKey: apiKey },()=>{
             document.getElementById("success-message").style.display = "block";
 
                 setTimeout(()=>{
